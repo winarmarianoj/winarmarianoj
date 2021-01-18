@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github.com/winarmarianoj/cv/blob/main/gif/template.gif" width="600px"/><br>
+<img align="center" src="https://github.com/winarmarianoj/cv/blob/main/gif/template.gif" width="800px"/><br>
 </p>
 <h1>🖖<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome, I'm <b>Mariano Wiñar!</b></h1><br>
 <p><h2>A programming student at the <b>Vicente Lopez University Center & National Technological University [UTN] 👨‍💻</b> </h2>
